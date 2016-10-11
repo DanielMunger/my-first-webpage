@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _my-first-webpage_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _HTML site, 10/11/16_
 
 #### By _**Daniel Munger and Kevin Finley**_
 
@@ -12,7 +12,6 @@ _This is a webpage that give information on Daniel's favorite things and places.
 
 * _Open in Google Chrome, or another web browser and enjoy_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
